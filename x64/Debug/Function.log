@@ -1,0 +1,17 @@
+﻿  Function.cpp
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(13,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(29,15): error C2374: 's': redefinition; multiple initialization
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(10): message : see declaration of 's'
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(30,9): error C2374: 'n': redefinition; multiple initialization
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(11): message : see declaration of 'n'
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(57,15): error C2374: 's': redefinition; multiple initialization
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(10): message : see declaration of 's'
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(58,9): error C2374: 'n': redefinition; multiple initialization
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(11): message : see declaration of 'n'
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(58,32): error C2040: 'n1': 'int' differs in levels of indirection from 'int [10]'
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(67,17): error C2107: illegal index, indirection not allowed
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(68,13): error C2105: '++' needs l-value
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(73,17): error C2107: illegal index, indirection not allowed
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(74,13): error C2105: '++' needs l-value
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(79,17): error C2107: illegal index, indirection not allowed
+C:\Users\kuqep\OneDrive\Рабочий стол\Step\C++\Функции\Homework\Function\Function.cpp(80,13): error C2105: '++' needs l-value
